@@ -1,0 +1,11 @@
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\FraudDetectorService.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\GsonDeserializer.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\GsonSerializer.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\KafkaDispatcher.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\KafkaService.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\model\Order.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\NewOrderMain.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\EmailService.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\LogService.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\model\Email.java
+F:\IdeaProjects\kafka\ecommerce\src\main\java\br\com\alura\ecommerce\ConsumerFunction.java
